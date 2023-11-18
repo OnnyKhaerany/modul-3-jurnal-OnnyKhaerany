@@ -1,3 +1,5 @@
+//Program Mengurutkan Senjata Berdasarkan Harga
+
 class Node {
     String senjata;
     int harga;
@@ -105,8 +107,9 @@ public class Senjata{
         senjataPetarung.tambahSenjata("Hunter Strike", 2010);
         senjataPetarung.tambahSenjata("Scarlet Phantom", 2020);
         senjataPetarung.tambahSenjata("Blade of the Heptaseas", 1950);
-        senjataPetarung.tambahSenjata("Windtaker", 1870);
+        senjataPetarung.tambahSenjata("Windtalker", 1870);
         senjataPetarung.tambahSenjata("Blade of Despair", 3010);
+        senjataPetarung.tambahSenjata("Bloodlust Axe", 1970);
         senjataPetarung.tambahSenjata("Golden Staff", 2100);
         senjataPetarung.tambahSenjata("Wind of Nature", 1910);
         senjataPetarung.tambahSenjata("Rose Gold Meteor", 2270);
